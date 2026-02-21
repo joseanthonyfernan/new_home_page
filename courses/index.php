@@ -58,14 +58,14 @@
                 <div class="col-lg-4 col-md-6 animate__animated" data-animation="fadeInUp">
                     <div class="course-card">
                         <div class="course-img-wrapper">
-                            <img src="<?php echo $base_url; ?>images/instructor1.jpg" alt="BSEd" class="course-img">
+                            <img src="<?php echo $base_url; ?>images/instructor1.jpg" alt="BSED" class="course-img">
                         </div>
                         <div class="course-body">
                             <div class="d-flex justify-content-between align-items-center mb-3">
                                 <span class="course-badge">Major In Education</span>
                                 <span class="course-price-info">Free Tuition</span>
                             </div>
-                            <h4 class="course-title">Bachelor of Secondary Education | BSEd</h4>
+                            <h4 class="course-title">Bachelor of Secondary Education | BSED</h4>
                             <p class="course-desc">Et architecto provident deleniti facere repellat nobis iste. Id
                                 facere quia quae dolores dolorem tempore.</p>
                             <div class="course-footer">

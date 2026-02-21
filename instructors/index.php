@@ -5,10 +5,10 @@
         <div class="container py-5">
             <div class="mb-5 animate__animated" data-animation="fadeIn">
                 <div class="section-tag-wrapper justify-content-start">
-                    <span class="section-tag">DEPARTMENT DEANS</span>
+                    <span class="section-tag">DEPARTMENT DEANS / PROGRAM HEADS</span>
                     <div class="section-line"></div>
                 </div>
-                <h2 class="section-title-main">Madridejos Community College Instructor</h2>
+                <h2 class="section-title-main">Madridejos Community College Deans / Program Heads</h2>
             </div>
 
             <div class="row g-4">
@@ -19,16 +19,14 @@
                             <img src="<?php echo $base_url; ?>images/instructor1.jpg" alt="Instructor 1" class="instructor-img">
                         </div>
                         <div class="instructor-body">
-                            <h5 class="instructor-name">NAME</h5>
-                            <p class="instructor-role">Department Dean</p>
-                            <p class="instructor-bio">Magni qui quod omnis unde et eas fuga et exercitationem. Odio
-                                veritatis perspiciatis quaerat qui aut aut aut</p>
-                            <div class="instructor-social">
-                                <a href="#" aria-label="Twitter"><i class="bi bi-twitter-x"></i></a>
+                            <h5 class="instructor-name">DR. ISRAEL N. ABARRATIGUE</h5>
+                            <p class="instructor-role text-danger fw-600">Dean, College of Business / Program Head - BSHM</p>
+                            <p class="instructor-bio">A visionary leader in hospitality management with over 15 years of academic experience. Dr. Israel is dedicated to fostering excellence in business education and preparing students for the global tourism landscape.</p>
+                            <div class="instructor-social mb-4">
                                 <a href="#" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
                                 <a href="#" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
-                                <a href="#" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
                             </div>
+                            <a href="#" class="btn btn-outline-danger btn-sm rounded-pill px-4">View Profile</a>
                         </div>
                     </div>
                 </div>
@@ -40,16 +38,14 @@
                             <img src="<?php echo $base_url; ?>images/instructor1.jpg" alt="Instructor 2" class="instructor-img">
                         </div>
                         <div class="instructor-body">
-                            <h5 class="instructor-name">NAME</h5>
-                            <p class="instructor-role">Department Dean</p>
-                            <p class="instructor-bio">Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus.
-                                In architecto rerum rerum temporibus</p>
-                            <div class="instructor-social">
-                                <a href="#" aria-label="Twitter"><i class="bi bi-twitter-x"></i></a>
+                            <h5 class="instructor-name">DR. PRISCILLA F. CANOY, LPT</h5>
+                            <p class="instructor-role text-danger fw-600">Dean, College of Education</p>
+                            <p class="instructor-bio">A passionate educator and expert in teacher development. Dr. Priscilla focuses on innovative pedagogical strategies and character building, ensuring the next generation of educators is both competent and compassionate.</p>
+                            <div class="instructor-social mb-4">
                                 <a href="#" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
                                 <a href="#" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
-                                <a href="#" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
                             </div>
+                            <a href="#" class="btn btn-outline-danger btn-sm rounded-pill px-4">View Profile</a>
                         </div>
                     </div>
                 </div>
@@ -61,16 +57,14 @@
                             <img src="<?php echo $base_url; ?>images/instructor1.jpg" alt="Instructor 3" class="instructor-img">
                         </div>
                         <div class="instructor-body">
-                            <h5 class="instructor-name">NAME</h5>
-                            <p class="instructor-role">Department Dean</p>
-                            <p class="instructor-bio">Voluptas necessitatibus occaecati quia. Earum totam consequuntur
-                                qui porro et laborum toro des clara</p>
-                            <div class="instructor-social">
-                                <a href="#" aria-label="Twitter"><i class="bi bi-twitter-x"></i></a>
+                            <h5 class="instructor-name">DR. DINO L. ILUSTRISIMO, MIT</h5>
+                            <p class="instructor-role text-danger fw-600">Program Head - BSIT</p>
+                            <p class="instructor-bio">An expert in Information Technology and systems management. Dr. Dino leads the BSIT program with a focus on cutting-edge technologies, research, and practical application, bridging the gap between academia and industry.</p>
+                            <div class="instructor-social mb-4">
                                 <a href="#" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
                                 <a href="#" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
-                                <a href="#" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
                             </div>
+                            <a href="#" class="btn btn-outline-danger btn-sm rounded-pill px-4">View Profile</a>
                         </div>
                     </div>
                 </div>
@@ -82,16 +76,14 @@
                             <img src="<?php echo $base_url; ?>images/instructor1.jpg" alt="Instructor 4" class="instructor-img">
                         </div>
                         <div class="instructor-body">
-                            <h5 class="instructor-name">NAME</h5>
-                            <p class="instructor-role">Department Dean</p>
-                            <p class="instructor-bio">Magni qui quod omnis unde et eas fuga et exercitationem. Odio
-                                veritatis perspiciatis quaerat qui aut aut aut</p>
-                            <div class="instructor-social">
-                                <a href="#" aria-label="Twitter"><i class="bi bi-twitter-x"></i></a>
+                            <h5 class="instructor-name">PROF. MARIA ELENA J. SANTOS</h5>
+                            <p class="instructor-role text-danger fw-600">Dean, College of Arts and Sciences</p>
+                            <p class="instructor-bio">With a background in behavioral sciences and community development, Prof. Santos is committed to integrating social awareness and cultural studies into the core academic curriculum.</p>
+                            <div class="instructor-social mb-4">
                                 <a href="#" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
                                 <a href="#" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
-                                <a href="#" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
                             </div>
+                            <a href="#" class="btn btn-outline-danger btn-sm rounded-pill px-4">View Profile</a>
                         </div>
                     </div>
                 </div>
@@ -103,16 +95,14 @@
                             <img src="<?php echo $base_url; ?>images/instructor1.jpg" alt="Instructor 5" class="instructor-img">
                         </div>
                         <div class="instructor-body">
-                            <h5 class="instructor-name">NAME</h5>
-                            <p class="instructor-role">Department Dean</p>
-                            <p class="instructor-bio">Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus.
-                                In architecto rerum rerum temporibus</p>
-                            <div class="instructor-social">
-                                <a href="#" aria-label="Twitter"><i class="bi bi-twitter-x"></i></a>
+                            <h5 class="instructor-name">ENGR. RICARDO M. DELA CRUZ</h5>
+                            <p class="instructor-role text-danger fw-600">Program Head - Engineering Studies</p>
+                            <p class="instructor-bio">Engr. Dela Cruz brings years of technical expertise and a focus on innovative engineering solutions, driving the program toward modern industry standards and sustainable practices.</p>
+                            <div class="instructor-social mb-4">
                                 <a href="#" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
                                 <a href="#" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
-                                <a href="#" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
                             </div>
+                            <a href="#" class="btn btn-outline-danger btn-sm rounded-pill px-4">View Profile</a>
                         </div>
                     </div>
                 </div>
@@ -124,16 +114,14 @@
                             <img src="<?php echo $base_url; ?>images/instructor1.jpg" alt="Instructor 6" class="instructor-img">
                         </div>
                         <div class="instructor-body">
-                            <h5 class="instructor-name">NAME</h5>
-                            <p class="instructor-role">Department Dean</p>
-                            <p class="instructor-bio">Voluptas necessitatibus occaecati quia. Earum totam consequuntur
-                                qui porro et laborum toro des clara</p>
-                            <div class="instructor-social">
-                                <a href="#" aria-label="Twitter"><i class="bi bi-twitter-x"></i></a>
+                            <h5 class="instructor-name">DR. TERESA G. MENDOZA</h5>
+                            <p class="instructor-role text-danger fw-600">Director of Academic Affairs</p>
+                            <p class="instructor-bio">Dr. Mendoza oversees curriculum development and academic quality assurance, ensuring that all programs at MCC meet the highest standards of educational excellence and relevance.</p>
+                            <div class="instructor-social mb-4">
                                 <a href="#" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
                                 <a href="#" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
-                                <a href="#" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
                             </div>
+                            <a href="#" class="btn btn-outline-danger btn-sm rounded-pill px-4">View Profile</a>
                         </div>
                     </div>
                 </div>

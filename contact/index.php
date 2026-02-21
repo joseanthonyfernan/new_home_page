@@ -54,8 +54,6 @@
                                 <i class="bi bi-envelope text-danger me-2"></i> op@mcclawis.edu.ph
                             </div>
                             <div class="small">
-                                <p class="mb-0"><i class="bi bi-telephone-fill text-danger me-2"></i> 09177078769</p>
-                                <p class="mb-0"><i class="bi bi-telephone-fill text-danger me-2"></i> 09177078713</p>
                                 <p class="mb-0"><i class="bi bi-telephone-fill text-danger me-2"></i> 09177078764</p>
                             </div>
                         </div>
@@ -71,17 +69,7 @@
                         </div>
 
                         <div class="office-group mb-4">
-                            <h6 class="fw-bold mb-2 text-danger">Admission</h6>
-                            <div class="small mb-1">
-                                <i class="bi bi-envelope text-danger me-2"></i> oas@mcclawis.edu.ph
-                            </div>
-                            <div class="small">
-                                <p class="mb-0"><i class="bi bi-telephone-fill text-danger me-2"></i> 09177078764</p>
-                            </div>
-                        </div>
-
-                        <div class="office-group mb-4">
-                            <h6 class="fw-bold mb-2 text-danger">Registrar</h6>
+                            <h6 class="fw-bold mb-2 text-danger">Registrar Office</h6>
                             <div class="small mb-1">
                                 <i class="bi bi-envelope text-danger me-2"></i> registrar@mcclawis.edu.ph
                             </div>
@@ -91,7 +79,7 @@
                         </div>
 
                         <div class="office-group mb-4">
-                            <h6 class="fw-bold mb-2 text-danger">Guidance</h6>
+                            <h6 class="fw-bold mb-2 text-danger">Guidance Office</h6>
                             <div class="small mb-1">
                                 <i class="bi bi-envelope text-danger me-2"></i> guidance@mcclawis.edu.ph
                             </div>
@@ -99,6 +87,17 @@
                                 <p class="mb-0"><i class="bi bi-telephone-fill text-danger me-2"></i> 09215220820</p>
                             </div>
                         </div>
+
+                        <div class="office-group mb-4">
+                            <h6 class="fw-bold mb-2 text-danger">MCC Library</h6>
+                            <div class="small mb-1">
+                                <i class="bi bi-envelope text-danger me-2"></i> relina.balili@mcclawis.edu.ph
+                            </div>
+                            <div class="small">
+                                <p class="mb-0"><i class="bi bi-telephone-fill text-danger me-2"></i> 09070384342</p>
+                            </div>
+                        </div>
+
                         <div class="office-group">
                             <h6 class="fw-bold mb-2 text-danger">MCC Clinic</h6>
                             <div class="small mb-1">
@@ -107,7 +106,7 @@
                             <div class="small">
                                 <p class="mb-0"><i class="bi bi-telephone-fill text-danger me-2"></i> 09177078769</p>
                             </div>
-                        </div>
+                        </div>                     
                     </div>
                 </div>
 
